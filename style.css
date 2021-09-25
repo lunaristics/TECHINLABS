@@ -1,0 +1,21 @@
+.font-gede{
+    font size: 60px;
+}
+
+text pink {
+    color: pink;
+}
+
+p {
+    width: 480px;
+    background: rgba(255, 255, 0, 0.3)
+}
+
+button {
+    background: tomato;
+    border: none;
+    cursor: pointer;
+    color: white;
+    padding: 12px 2px 80px;
+    
+}
